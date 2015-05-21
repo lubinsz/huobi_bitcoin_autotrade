@@ -1,2 +1,2 @@
 # This is my README
-move them from bitbucket
+move them from my bitbucket
